@@ -78,7 +78,7 @@ COUNTROWS('EmployeeData')
 
 ## 🖼️ **Dashboard Preview**
 
-(![HR Attrition Dashboard](https://github.com/sanjanagawh9443/Power-BI-Retail-Analytics-Dashboard/blob/main/salesdata.PNG)
+(![HR Attrition Dashboard]((https://github.com/sanjanagawh9443/Power-BI-HR-Attrition-Dashboard-/blob/main/IMG-20251017-WA0004(1).jpg))
 
 ---
 
